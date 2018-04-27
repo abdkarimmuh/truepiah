@@ -1,6 +1,6 @@
 # truepiah
 
-Aplikasi **Crowdfunding Landing**
+Aplikasi **Crowdfunding Lending**
 
 by  *Masih Anget TEAM*
 - @arfianmulyap
